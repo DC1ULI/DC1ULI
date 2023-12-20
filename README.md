@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DC1ULI
-- 👀 I’m interested in 
-- 🌱 I’m currently learning CW
-- 💞️ I’m looking to collaborate on C++ Projects
-- for Arduino and ESP32
+- 👀 I’m interested in biking, Dog Walk, Camping, ham radio
+- 🌱 I’m currently learning CW for ham
+- 💞️ I’m looking to collaborate on C++ and Hardware for campers Projects
+- for Arduino, raspi and ESP32
 - 📫 How to reach me uli@dc1uli.de
 
 <!---
