@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning CW for ham
 - 💞️ I’m looking to collaborate on C++ and Hardware for campers Projects
 - for Arduino, raspi and ESP32
+- newest interest LoRaWAN
 - 📫 How to reach me uli@dc1uli.de
 
 <!---
